@@ -65,7 +65,7 @@ export function downloadStudentResultPDF(result: ExamResult): void {
   y += 5;
   doc.setFontSize(10);
   doc.setFont('helvetica', 'normal');
-  doc.text(`Tahun Ajaran 2025/2026`, pageWidth / 2, y, { align: 'center' });
+  doc.text(`Tahun Pelajaran 2026/2027`, pageWidth / 2, y, { align: 'center' });
   y += 9;
 
   // --- DATA IDENTITAS SISWA ---
