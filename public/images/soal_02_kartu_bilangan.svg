@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170">
+  <rect width="520" height="170" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="260" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#334155">Kartu Bilangan Cacah</text>
+  <!-- Kartu 1 -->
+  <rect x="24" y="46" width="108" height="92" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="78" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1d4ed8">KARTU A</text>
+  <text x="78" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">64.580</text>
+  <!-- Kartu 2 -->
+  <rect x="145" y="46" width="108" height="92" rx="12" fill="#ecfdf5" stroke="#059669" stroke-width="2"/>
+  <text x="199" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#047857">KARTU B</text>
+  <text x="199" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">64.850</text>
+  <!-- Kartu 3 -->
+  <rect x="266" y="46" width="108" height="92" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+  <text x="320" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b45309">KARTU C</text>
+  <text x="320" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">65.408</text>
+  <!-- Kartu 4 -->
+  <rect x="387" y="46" width="108" height="92" rx="12" fill="#fdf2f8" stroke="#db2777" stroke-width="2"/>
+  <text x="441" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#be185d">KARTU D</text>
+  <text x="441" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#0f172a">64.508</text>
+</svg>

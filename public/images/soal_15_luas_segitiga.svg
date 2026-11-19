@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="230" viewBox="0 0 460 230">
+  <rect width="460" height="230" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Segitiga: alas (100,184) to (360,184), puncak (200,44) -->
+  <polygon points="200,44 100,184 360,184" fill="#fef3c7" stroke="#d97706" stroke-width="2.5"/>
+  <!-- Garis tinggi putus-putus -->
+  <line x1="200" y1="44" x2="200" y2="184" stroke="#dc2626" stroke-width="2" stroke-dasharray="6,4"/>
+  <!-- Tanda siku-siku -->
+  <polyline points="200,170 214,170 214,184" fill="none" stroke="#dc2626" stroke-width="1.8"/>
+  <!-- Label -->
+  <text x="208" y="120" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b91c1c">t = 12 cm</text>
+  <text x="230" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">alas = 18 cm</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="240" viewBox="0 0 460 240">
+  <rect width="460" height="240" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Bangun L: skala 1 cm = 12 px, origin (120, 44) -->
+  <!-- (120,44) -> (240,44) [10cm] -> (240,104) [5cm] -> (336,104) [8cm] -> (336,188) [7cm] -> (120,188) [18cm] -> close [12cm] -->
+  <polygon points="120,44 240,44 240,104 336,104 336,188 120,188" fill="#d1fae5" stroke="#047857" stroke-width="2.5"/>
+  <!-- Tanda siku-siku -->
+  <polyline points="120,56 132,56 132,44" fill="none" stroke="#065f46" stroke-width="1.5"/>
+  <polyline points="120,176 132,176 132,188" fill="none" stroke="#065f46" stroke-width="1.5"/>
+  <polyline points="324,188 324,176 336,176" fill="none" stroke="#065f46" stroke-width="1.5"/>
+  <!-- Label ukuran sisi -->
+  <text x="180" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">10 cm</text>
+  <text x="248" y="79" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">5 cm</text>
+  <text x="288" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">8 cm</text>
+  <text x="346" y="150" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">7 cm</text>
+  <text x="228" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">18 cm</text>
+  <text x="110" y="120" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">12 cm</text>
+</svg>

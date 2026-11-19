@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="230" viewBox="0 0 460 230">
+  <rect width="460" height="230" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Segitiga sama kaki ABC: A(230,36), B(125,186), C(335,186) -->
+  <polygon points="230,36 125,186 335,186" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5"/>
+  <!-- Tanda sama kaki pada sisi AB dan AC -->
+  <line x1="170" y1="105" x2="184" y2="115" stroke="#dc2626" stroke-width="2.5"/>
+  <line x1="276" y1="115" x2="290" y2="105" stroke="#dc2626" stroke-width="2.5"/>
+  <!-- Titik sudut -->
+  <text x="230" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">A</text>
+  <text x="108" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">B</text>
+  <text x="352" y="194" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">C</text>
+  <!-- Label panjang sisi -->
+  <text x="148" y="108" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">19 cm</text>
+  <text x="312" y="108" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">19 cm</text>
+  <text x="230" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1e293b">14 cm</text>
+</svg>

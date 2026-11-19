@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250">
+  <rect width="460" height="250" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Persegi panjang bawah: x=110..350 (240px = 16cm), y=110..205 (95px = 10cm) -->
+  <rect x="110" y="110" width="240" height="95" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5"/>
+  <!-- Segitiga atas: (110,110), (350,110), puncak (230,40) -->
+  <polygon points="110,110 350,110 230,40" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="2.5"/>
+  <!-- Garis batas putus-putus & tinggi segitiga -->
+  <line x1="230" y1="40" x2="230" y2="110" stroke="#dc2626" stroke-width="2" stroke-dasharray="5,4"/>
+  <polyline points="230,98 242,98 242,110" fill="none" stroke="#dc2626" stroke-width="1.6"/>
+  <!-- Label -->
+  <text x="238" y="82" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#b91c1c">t = 6 cm</text>
+  <text x="360" y="162" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">10 cm</text>
+  <text x="230" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#0f172a">16 cm</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170">
+  <rect width="520" height="170" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="260" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#334155">Dua Potong Pita yang Disambungkan</text>
+  <!-- Pita Merah -->
+  <rect x="44" y="62" width="260" height="36" rx="4" fill="#ef4444" stroke="#991b1b" stroke-width="2"/>
+  <text x="174" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Pita Merah (3/4 m)</text>
+  <!-- Pita Biru -->
+  <rect x="304" y="62" width="172" height="36" rx="4" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
+  <text x="390" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Pita Biru (2/5 m)</text>
+  <!-- Garis ukur total -->
+  <line x1="44" y1="116" x2="476" y2="116" stroke="#334155" stroke-width="2"/>
+  <line x1="44" y1="108" x2="44" y2="124" stroke="#334155" stroke-width="2"/>
+  <line x1="476" y1="108" x2="476" y2="124" stroke="#334155" stroke-width="2"/>
+  <rect x="196" y="122" width="128" height="24" rx="6" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
+  <text x="260" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Total Panjang = ? m</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="240" viewBox="0 0 460 240">
+  <rect width="460" height="240" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Belah ketupat ABCD: center (230,120), d1 horizontal = 200px (16cm), d2 vertical = 150px (12cm) -->
+  <!-- A(230,45), B(330,120), C(230,195), D(130,120) -->
+  <polygon points="230,45 330,120 230,195 130,120" fill="#fce7f3" stroke="#be185d" stroke-width="2.5"/>
+  <!-- Diagonal putus-putus -->
+  <line x1="130" y1="120" x2="330" y2="120" stroke="#475569" stroke-width="1.8" stroke-dasharray="5,4"/>
+  <line x1="230" y1="45" x2="230" y2="195" stroke="#475569" stroke-width="1.8" stroke-dasharray="5,4"/>
+  <!-- Titik sudut -->
+  <text x="230" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">A</text>
+  <text x="344" y="125" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">B</text>
+  <text x="230" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">C</text>
+  <text x="116" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">D</text>
+  <!-- Label sisi & diagonal -->
+  <text x="292" y="74" text-anchor="start" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#9d174d">10 cm</text>
+  <text x="172" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">d1 = 16 cm</text>
+  <text x="238" y="156" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">d2 = 12 cm</text>
+</svg>

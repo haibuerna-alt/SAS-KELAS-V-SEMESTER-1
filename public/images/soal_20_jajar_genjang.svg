@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="230" viewBox="0 0 460 230">
+  <rect width="460" height="230" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- Jajar genjang PQRS: P(95,180), Q(305,180), R(365,64), S(155,64) -->
+  <polygon points="95,180 305,180 365,64 155,64" fill="#d1fae5" stroke="#047857" stroke-width="2.5"/>
+  <!-- Garis tinggi putus-putus -->
+  <line x1="155" y1="64" x2="155" y2="180" stroke="#dc2626" stroke-width="2" stroke-dasharray="5,4"/>
+  <polyline points="155,166 169,166 169,180" fill="none" stroke="#dc2626" stroke-width="1.8"/>
+  <!-- Titik sudut -->
+  <text x="80" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">P</text>
+  <text x="320" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">Q</text>
+  <text x="380" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">R</text>
+  <text x="142" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">S</text>
+  <!-- Label ukuran -->
+  <text x="200" y="204" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">15 cm</text>
+  <text x="348" y="128" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">10 cm</text>
+  <text x="163" y="128" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b91c1c">8 cm</text>
+</svg>

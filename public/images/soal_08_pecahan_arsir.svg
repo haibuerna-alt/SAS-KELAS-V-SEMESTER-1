@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+  <rect width="480" height="200" rx="14" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="240" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#334155">Model Pecahan Daerah Terarsir</text>
+  <!-- Grid 4 columns x 2 rows = 8 equal rectangles; 5 shaded -->
+  <g transform="translate(80, 48)">
+    <!-- Row 1: 4 shaded -->
+    <rect x="0" y="0" width="80" height="60" fill="#3b82f6" stroke="#1e293b" stroke-width="2"/>
+    <rect x="80" y="0" width="80" height="60" fill="#3b82f6" stroke="#1e293b" stroke-width="2"/>
+    <rect x="160" y="0" width="80" height="60" fill="#3b82f6" stroke="#1e293b" stroke-width="2"/>
+    <rect x="240" y="0" width="80" height="60" fill="#3b82f6" stroke="#1e293b" stroke-width="2"/>
+    <!-- Row 2: 1 shaded, 3 unshaded -->
+    <rect x="0" y="60" width="80" height="60" fill="#3b82f6" stroke="#1e293b" stroke-width="2"/>
+    <rect x="80" y="60" width="80" height="60" fill="#ffffff" stroke="#1e293b" stroke-width="2"/>
+    <rect x="160" y="60" width="80" height="60" fill="#ffffff" stroke="#1e293b" stroke-width="2"/>
+    <rect x="240" y="60" width="80" height="60" fill="#ffffff" stroke="#1e293b" stroke-width="2"/>
+  </g>
+  <text x="240" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">Seluruh bagian terbagi menjadi 8 kotak sama besar</text>
+</svg>
