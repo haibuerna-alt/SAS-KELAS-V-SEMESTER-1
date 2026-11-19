@@ -1,4 +1,5 @@
 import React from 'react';
+import { CONFIG } from '../config';
 import { AppStage } from '../types';
 import { GraduationCap, ShieldCheck, FileSpreadsheet, ArrowLeft } from 'lucide-react';
 
@@ -32,7 +33,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 </span>
               </div>
               <h1 id="navbar-app-title" className="text-sm sm:text-base font-bold text-slate-900 tracking-tight leading-tight">
-                Sekolah Dasar
+                {CONFIG.SEKOLAH}
               </h1>
             </div>
           </div>

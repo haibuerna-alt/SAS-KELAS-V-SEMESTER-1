@@ -4,16 +4,16 @@
  */
 
 export const CONFIG = {
-  SEKOLAH: "SEKOLAH DASAR",
+  SEKOLAH: "SD Negeri 2 Perancak",
   ALAMAT_SEKOLAH: "Jembrana",
   KOTA: "Jembrana",
   KELAS: "V",
   MATA_PELAJARAN: "MATEMATIKA",
   MATERI: "Matematika Kelas V Semester 1",
-  GURU: "........................................",
-  NIP_GURU: "........................................",
-  KEPALA_SEKOLAH: "........................................",
-  NIP_KEPALA_SEKOLAH: "........................................",
+  GURU: "Ni Putu Ayu Erna Masyanti, S. Pd",
+  NIP_GURU: "199002022022212004",
+  KEPALA_SEKOLAH: "Gusti Ayu Putu Yuni Artini, S. Pd.SD",
+  NIP_KEPALA_SEKOLAH: "197406112006042008",
   KKTP: 70,
   ADMIN_PASSWORD: "GURUADMIN",
   

@@ -235,7 +235,7 @@ export function downloadStudentResultPDF(result: ExamResult): void {
   doc.line(colRight, lineY, colRight + 48, lineY);
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(8.5);
-  doc.text(`NIP. ${CONFIG.NIP_GURU}`, colRight, lineY + 4);
+  doc.text(`NIPPPK. ${CONFIG.NIP_GURU}`, colRight, lineY + 4);
 
   // Simpan PDF
   const safeName = (result.nama || 'siswa').replace(/[^a-zA-Z0-9]/g, '_');
@@ -731,7 +731,7 @@ export function downloadResultsRecapPDF(results: ExamResult[]): void {
   doc.line(colRightX, sigLineY + 1, colRightX + 50, sigLineY + 1);
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(8);
-  doc.text(`NIP. ${CONFIG.NIP_GURU}`, colRightX, sigLineY + 5);
+  doc.text(`NIPPPK. ${CONFIG.NIP_GURU}`, colRightX, sigLineY + 5);
 
   // --- FOOTER DI SETIAP HALAMAN ---
   const totalPages = doc.getNumberOfPages();
@@ -985,7 +985,7 @@ export function downloadKisiKisiPDF(questions: Question[]): void {
   doc.line(colRightX, sigLineY + 1, colRightX + 55, sigLineY + 1);
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(8);
-  doc.text(`NIP. ${CONFIG.NIP_GURU}`, colRightX, sigLineY + 5);
+  doc.text(`NIPPPK. ${CONFIG.NIP_GURU}`, colRightX, sigLineY + 5);
 
   // --- FOOTER DI SETIAP HALAMAN ---
   const totalPages = doc.getNumberOfPages();
@@ -1306,7 +1306,7 @@ export function downloadAnalisisButirPDF(results: ExamResult[], questions: Quest
   doc.line(colRightX, sigLineY + 1, colRightX + 55, sigLineY + 1);
   doc.setFont('helvetica', 'normal');
   doc.setFontSize(8);
-  doc.text(`NIP. ${CONFIG.NIP_GURU}`, colRightX, sigLineY + 5);
+  doc.text(`NIPPPK. ${CONFIG.NIP_GURU}`, colRightX, sigLineY + 5);
 
   // --- FOOTER DI SETIAP HALAMAN ---
   const totalPages = doc.getNumberOfPages();
